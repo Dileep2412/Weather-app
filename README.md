@@ -66,13 +66,6 @@ Weather-app/
 ├── style.css       # Styling and responsive layout
 ├── script.js       # JavaScript logic & API integration
 └── README.md       # Project documentation
-```
-
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your app here for maximum impact on recruiters)*
 
 ---
 
