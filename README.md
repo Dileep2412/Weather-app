@@ -4,11 +4,15 @@
 
 🔗 **Live Demo:** [https://dileep2412.github.io/Weather-app/](https://dileep2412.github.io/Weather-app/)
 
+---
+
 ## 📌 Overview
 
 Weather App is a lightweight front-end web application built with vanilla HTML, CSS, and JavaScript. It integrates with the **OpenWeatherMap API** to fetch and display live weather conditions — giving users instant, accurate meteorological data for any city they search.
 
 This project demonstrates core front-end development skills including API integration, asynchronous JavaScript (fetch/async-await), dynamic DOM manipulation, and responsive UI design.
+
+---
 
 ## ✨ Features
 
@@ -18,15 +22,18 @@ This project demonstrates core front-end development skills including API integr
 - ⚡ **Instant results** — No page reload; results render dynamically
 - 📱 **Responsive design** — Works seamlessly on desktop and mobile
 
+---
 
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
+|---|---|
 | HTML5 | Structure & markup |
 | CSS3 | Styling & responsive layout |
 | JavaScript (ES6+) | Logic, API calls, DOM manipulation |
 | OpenWeatherMap API | Live weather data source |
 
+---
 
 ## 🚀 Getting Started
 
@@ -49,13 +56,25 @@ open index.html
 
 > ⚠️ **Note:** If you fork this project, replace the API key in `script.js` with your own free key from [OpenWeatherMap](https://openweathermap.org/api).
 
+---
+
 ## 📂 Project Structure
 
+```
 Weather-app/
 ├── index.html      # Main HTML structure
 ├── style.css       # Styling and responsive layout
 ├── script.js       # JavaScript logic & API integration
 └── README.md       # Project documentation
+```
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots of your app here for maximum impact on recruiters)*
+
+---
 
 ## 🧠 What I Learned
 
@@ -63,6 +82,8 @@ Weather-app/
 - Handling asynchronous operations with `async/await`
 - Dynamic DOM updates based on API response data
 - Building a clean, user-friendly UI without any frameworks
+
+---
 
 ## 🔮 Future Improvements
 
@@ -72,13 +93,19 @@ Weather-app/
 - [ ] Weather icons and animated backgrounds based on conditions
 - [ ] Search history with local storage
 
+---
+
 ## 👨‍💻 Author
 
 **Dileep** — Aspiring Front-End Developer  
 📫 [GitHub Profile](https://github.com/Dileep2412)
 
+---
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
 
 ⭐ *If you found this project helpful or interesting, consider giving it a star!*
